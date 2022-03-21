@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="registro">Registrar minha Localização</string>
+    <string name="registrations">Ver meus Registros</string>
+    <string name="btnVoltar">Voltar à Tela Inicial</string>
+</resources>

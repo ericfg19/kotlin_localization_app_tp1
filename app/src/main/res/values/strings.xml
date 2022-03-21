@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Minha Localização</string>
+    <string name="welcome">Bem-vindo ao sistema de Geolocalização</string>
+    <string name="Localiza">Registrar minha Localização</string>
+    <string name="registrations">Ver meus Registros</string>
+    <string name="btnVoltar">Voltar</string>
+</resources>
